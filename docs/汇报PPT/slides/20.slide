@@ -8,7 +8,7 @@
         </Text>
         <Box style={{ width: 96, height: 4, background: '#1E4FA8', marginTop: 36, marginBottom: 26 }} />
         <Text style={{ fontSize: 18, color: '#4A5568', lineHeight: 1.6 }}>
-            三道闸、七轮实验、二十六条踩坑记录——都在同一个仓库里，可以逐条复现。
+            三道闸、七轮实验、四十三条踩坑记录——都在同一个仓库里，可以逐条复现。
         </Text>
         <Text style={{ fontSize: 15, color: '#8B97A8', marginTop: 30 }}>
             汇报人　陈炫霖　24智能1　·　深圳职业技术大学　·　2026-11-10
